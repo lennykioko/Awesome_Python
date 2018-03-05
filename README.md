@@ -1,4 +1,4 @@
-![Home Image](https://raw.github.com/lennykioko/Awesome_Python/master/python.jpg)
+![Home Image](https://raw.github.com/lennykioko/Awesome_Python/master/python.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
